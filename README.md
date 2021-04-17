@@ -1,6 +1,6 @@
 -  Hi, I’m @vile451
 -  I’m interested in web development.
--  I’m currently learning Javascript.
+-  I’m currently learning HTML, CSS, and Javascript.
 
 - You can contact me via Discord, vile#1559
 
